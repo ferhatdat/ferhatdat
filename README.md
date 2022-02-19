@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ferhat <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Ferhat 🧑‍💻</h1>
 <h3 align="center">FullStack developer from Turkey</h3>
 
 - 🔭 I’m currently working on my **Clarusway IT Course**
